@@ -11,7 +11,7 @@ codetorun = """
 !git clone -b v2.1 https://github.com/camenduru/deforum-for-automatic1111-webui /content/Shura/extensions/deforum-for-automatic1111-webui
 !git clone -b v2.1 https://github.com/camenduru/stable-diffusion-webui-images-browser /content/Shura/extensions/stable-diffusion-webui-images-browser
 !git clone -b v2.1 https://github.com/camenduru/stable-diffusion-webui-huggingface /content/Shura/extensions/stable-diffusion-webui-huggingface
-!git clone https://github.com/Iyashinouta/sd-model-downloader /content/Shura/extensions/sd-model-downloader
+!git clone https://github.com/Leonidaszz/model-downloader /content/Shura/extensions/sd-model-downloader
 !git clone -b v2.1 https://github.com/camenduru/sd-civitai-browser /content/Shura/extensions/sd-civitai-browser
 !git clone -b v2.1 https://github.com/camenduru/sd-webui-additional-networks /content/Shura/extensions/sd-webui-additional-networks
 !git clone https://github.com/Mikubill/sd-webui-controlnet /content/Shura/extensions/sd-webui-controlnet
