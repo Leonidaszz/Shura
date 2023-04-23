@@ -11,8 +11,15 @@ codetorun = """
 !git clone -b v2.1 https://github.com/camenduru/deforum-for-automatic1111-webui /content/Shura/extensions/deforum-for-automatic1111-webui
 !git clone -b v2.1 https://github.com/camenduru/stable-diffusion-webui-images-browser /content/Shura/extensions/stable-diffusion-webui-images-browser
 !git clone -b v2.1 https://github.com/camenduru/stable-diffusion-webui-huggingface /content/Shura/extensions/stable-diffusion-webui-huggingface
+!git clone https://github.com/Iyashinouta/sd-model-downloader /content/Shura/extensions/sd-model-downloader
 !git clone -b v2.1 https://github.com/camenduru/sd-civitai-browser /content/Shura/extensions/sd-civitai-browser
 !git clone -b v2.1 https://github.com/camenduru/sd-webui-additional-networks /content/Shura/extensions/sd-webui-additional-networks
+!git clone https://github.com/Mikubill/sd-webui-controlnet /content/Shura/extensions/sd-webui-controlnet
+!git clone -b v2.1 https://github.com/camenduru/openpose-editor /content/Shura/extensions/openpose-editor
+!git clone https://github.com/jexom/sd-webui-depth-lib /content/Shura/extensions/sd-webui-depth-lib
+!git clone https://github.com/DominikDoom/a1111-sd-webui-tagcomplete /content/Shura/extensions/tag-autocomplete
+!git clone https://github.com/hnmr293/posex /content/Shura/extensions/posex
+!git clone https://github.com/dbolya/tomesd /content/Shura/extensions/tomesd
 !git clone -b v2.1 https://github.com/camenduru/sd-webui-tunnels /content/Shura/extensions/sd-webui-tunnels
 !git clone -b v2.1 https://github.com/camenduru/batchlinks-webui /content/Shura/extensions/batchlinks-webui
 !git clone -b v2.1 https://github.com/camenduru/stable-diffusion-webui-catppuccin /content/Shura/extensions/stable-diffusion-webui-catppuccin
